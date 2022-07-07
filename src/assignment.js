@@ -21,9 +21,8 @@ function sumOfNumbers(arrayOfNumbers) {
   }
   
     return `Total sum is: ${sum}`;
-  //arrayOfNumbers.length
 }
-//assignment.sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -44,7 +43,6 @@ function countEvenNumbers(arrayOfNumbers) {
   });
 
   return `There are ${even.length} even numbers is the array`;
-    //return arrayOfNumbers.length;
 }
 assignment.countEvenNumbers = countEvenNumbers;
 
