@@ -44,7 +44,7 @@ function countEvenNumbers(arrayOfNumbers) {
 
   return `There are ${even.length} even numbers is the array`;
 }
-assignment.countEvenNumbers = countEvenNumbers;
+// assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
